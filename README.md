@@ -29,7 +29,7 @@ Contient les statistiques historiques des équipes avec les colonnes suivantes :
 ## Installation
 1. Clonez le dépôt
 ```bash
-git clone [url-du-repo]
+git clone [https://github.com/GhntSergio/UEFA-Champions-League-Historical-Dataset-1955-2023]
 ```
 2. Explorez les données dans le dossier `data`
 
