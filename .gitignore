@@ -1,0 +1,48 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels Python
+venv/
+env/
+.env
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Fichiers de distribution Python
+dist/
+build/
+*.egg-info/
+
+# Fichiers d'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de dépendances
+node_modules/
+
+# Fichiers de configuration locaux
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de build
+/build
+/dist
+
+# Autres
+*.bak
+*.backup
+*.old
