@@ -1,5 +1,7 @@
 # UEFA Champions League - Données Historiques (1955-2023)
 
+> 🇬🇧 **English summary:** Complete historical dataset of the UEFA Champions League (1955-2023), with cleaning scripts and analysis reports.
+
 ## À propos du Dataset
 Ce dépôt contient des données historiques complètes sur l'UEFA Champions League, couvrant la période de 1955 à 2023. Il fournit des statistiques détaillées sur les performances des équipes tout au long de l'histoire de la compétition.
 
